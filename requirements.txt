@@ -1,0 +1,6 @@
+streamlit
+scrapy
+beautifulsoup4
+pypdf
+python-docx
+openai
